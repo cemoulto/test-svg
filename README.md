@@ -2,5 +2,8 @@
 
 Testing embedded SVG
 
-![PNG](S14.png)
-![SVG](S14.svg)
+PNG: ![PNG](S14.png)
+
+Relative SVG: ![SVG](S14.svg)
+
+Absolute SVG: ![SVG](https://rawgit.com/darobin/test-svg/master/S14.svg)
